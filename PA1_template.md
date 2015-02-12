@@ -198,3 +198,4 @@ for (type in c("weekend", "weekday")) {
 ```
 
 ![plot of chunk unnamed-chunk-13](figure/unnamed-chunk-13.png) 
+

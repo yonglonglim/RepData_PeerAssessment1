@@ -110,3 +110,4 @@ for (type in c("weekend", "weekday")) {
     plot(weekend, type = "l", main = type)
 }
 ```
+
